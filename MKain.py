@@ -66,3 +66,28 @@ def mySiblings():
     print("Isaiah")
 
 print("my siblings")
+
+def myNameIs(turtle):
+    print(turtle + "is my name")
+myNameIs("69")
+
+def timesTwo(x):
+    print(x + 5)
+timesTwo(1)
+def timesTwo(x):
+    print(x / 2)
+timesTwo(1)
+
+
+def madLib(a,b,c,d,e,f,g,h,i,j):
+    print("star wars is a" + a + b)
+    print("of"+ c)
+    print("versus evil in a" + d)
+    print("far far away. There are" + e)
+    print("battles between" + f + g)
+    print("in" + h)
+    print("space and" + i)
+    print("duels with" + j)
+
+madLib("stinky",place,evil,bin,sluggish,super,garbage,stinky,epic,cats)
+
